@@ -3,18 +3,11 @@ import { TbBriefcase, TbCalendar } from "react-icons/tb"
 export default function Experience() {
   const experiences = [
     {
-      title: "Senior Full Stack Developer",
+      title: "Junior Full Stack Developer",
       company: "Tech Company A",
-      period: "2023 - Present",
+      period: "2025 - Present",
       description: "Lead development of web applications using React and Node.js. Mentored junior developers and improved application performance by 40%.",
       technologies: ["React", "Node.js", "MongoDB", "AWS"]
-    },
-    {
-      title: "Full Stack Developer",
-      company: "Tech Company B",
-      period: "2021 - 2023",
-      description: "Developed and maintained multiple web applications. Implemented RESTful APIs and optimized database queries.",
-      technologies: ["React", "Express", "PostgreSQL", "Docker"]
     },
     {
       title: "Frontend Developer",
@@ -23,13 +16,6 @@ export default function Experience() {
       description: "Built responsive user interfaces using React. Collaborated with designers and product team to deliver high-quality products.",
       technologies: ["React", "Tailwind CSS", "TypeScript", "Figma"]
     },
-    {
-      title: "Junior Developer",
-      company: "Tech Company D",
-      period: "2019 - 2020",
-      description: "Started web development journey. Worked on both frontend and backend features. Learned best practices and coding standards.",
-      technologies: ["JavaScript", "HTML/CSS", "jQuery", "PHP"]
-    }
   ]
 
   return (

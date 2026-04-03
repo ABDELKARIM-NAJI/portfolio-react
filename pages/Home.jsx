@@ -59,11 +59,11 @@ export default function Home() {
       {/* Quick Stats */}
       <div className="grid grid-cols-3 gap-6 py-12 border-y border-gray-700">
         <div className="text-center">
-          <p className="text-3xl font-bold text-blue-400">5+</p>
+          <p className="text-3xl font-bold text-blue-400"></p>
           <p className="text-gray-400">Years Professional Experience</p>
         </div>
         <div className="text-center">
-          <p className="text-3xl font-bold text-blue-400">4+</p>
+          <p className="text-3xl font-bold text-blue-400"></p>
           <p className="text-gray-400">Companies Worked With</p>
         </div>
         <div className="text-center">
